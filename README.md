@@ -27,7 +27,7 @@ Não foi utilizado nenhum framework ou biblioteca para o desenvolvimento deste p
 ## Contato
 Se tiver dúvidas ou precisar de mais informações, sinta-se à vontade para entrar em contato:
 - Email : [eduardochimcheck@gmail.com](mailto:eduardochimcheck@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/eduardo-chimchek-jeronimo-3539911a2/]
+- LinkedIn: [Eduardo Chimchek Jeronimo](https://www.linkedin.com/in/eduardo-chimchek-jeronimo-3539911a2/)
 
 ---
 
