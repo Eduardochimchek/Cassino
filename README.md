@@ -1,11 +1,11 @@
 
 # Cassino 
 
-Site para iGaming para coletar moedas através do jogo Subway Surfers, em caso de grande quantidade de solicitações de Saque, podemos utilizar a [API Cash Out](https://github.com/daanrox/Pix-CashOut) para resgate do valor através de transferencia PIX imediata.
+Site para coletar moedas através do jogo Subway Surfers, em caso de grande quantidade de solicitações de Saque, podemos utilizar a [API Cash Out](https://github.com/daanrox/Pix-CashOut) para resgate do valor através de transferencia PIX imediata.
 
 Para um melhor desempenho, estou utilizando a hospedagem na Hostinger, através deste link irá conseguir mais informações sobre: [https://hostinger.com.br](https://hostinger.com.br?REFERRALCODE=1DANIEL1306)
 
-Aplicação 100% funcional, caso tenha interesse em adquirir outros modelos como Angry Birds, Mario ou Cassinos, entre em contato +5531992812273
+<!-- Aplicação 100% funcional, caso tenha interesse em adquirir outros modelos como Angry Birds, Mario ou Cassinos, entre em contato +5531992812273 -->
 
 ![Subway Pay](front_example2.jpg)
 
@@ -27,8 +27,8 @@ Não foi utilizado nenhum framework ou biblioteca para o desenvolvimento deste p
 ## Contato
 Se tiver dúvidas ou precisar de mais informações, sinta-se à vontade para entrar em contato:
 - Email : [eduardochimcheck@gmail.com](mailto:eduardochimcheck@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/eduardo-chimchek-jeronimo-3539911a2/](Eduardo Chimchek Jeronimo)
+- LinkedIn: [https://www.linkedin.com/in/eduardo-chimchek-jeronimo-3539911a2](Eduardo Chimchek Jeronimo)
 
---- 
+---
 
 Projeto desenvolvido para gerar renda extra.
